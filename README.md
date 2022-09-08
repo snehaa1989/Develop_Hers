@@ -16,7 +16,11 @@ Code repository for Veersa hackathon
   <h3 align="center">PATIENT PORTAL</h3>
   <p align="center">
   A fully functional Patient Self Service Portal built with OutSystems.
- 
+    
+[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
+[![Latest release](https://badgen.net/github/release/snehaa1989/Develop_Hers)](https://github.com/snehaa1989/Develop_Hers/releases)
+[![GitHub forks](https://img.shields.io/github/forks/snehaa1989/Develop_Hers.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/snehaa1989/Develop_Hers)
+[![GitHub issues](https://img.shields.io/github/issues/snehaa1989/Develop_Hers.svg)](https://GitHub.com/snehaa1989/Develop_Hers/issues/)
 </p>
 </p>
 </div>
