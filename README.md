@@ -165,6 +165,11 @@ Flowcharts: https://drive.google.com/drive/folders/1SGcwIHqKkSzoKd_qgW0bdccCGf3U
 
 
 
+
+https://user-images.githubusercontent.com/61073116/189226678-a53dd69b-370b-4f72-b08a-af83488fd78e.mp4
+
+
+
 ## Setup and Installation
 
 ✅ Install Service Studio 11 and in Service Studio's main window, click on the Environment menu on the top left
