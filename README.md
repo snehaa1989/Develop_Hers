@@ -17,11 +17,6 @@ Code repository for Veersa hackathon
   <p align="center">
   A fully functional Patient Self Service Portal built with OutSystems.
  
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 </p>
 </p>
 </div>
