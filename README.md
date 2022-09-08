@@ -37,6 +37,8 @@ Code repository for Veersa hackathon
 - [Setup and Installation](#Setup-and-Installation)
 - [Features](#Features)
 - [Future Scope](#Future-Scope)
+- [Hosting and Deployment](#Hosting-and-Deployment)
+- [Video Demo](#Video-Demo)
 - [Contribute](#Contribute)
 - [Contributors](#Contributors)
 
@@ -106,21 +108,22 @@ Outsystems enables an accelerates the development and delivery of enterprise lev
 
 # Interface
 <div>
-<img src="https://i.imgur.com/56NrYUU.png" width="50" height="50">
-<img src="https://i.imgur.com/dUr53xn.png" width="50" height="50">
-<img src="https://i.imgur.com/XBvyHIN.png" width="50" height="50">
+<img src="https://i.imgur.com/56NrYUU.png" width="100" height="100">
+<img src="https://i.imgur.com/dUr53xn.png" width="100" height="100">
+<img src="https://i.imgur.com/XBvyHIN.png" width="100" height="100">
 </div>
 # Logic
 <div>
-<img src="https://i.imgur.com/YBj5dOL.png" width="50" height="50">
+<img src="https://i.imgur.com/YBj5dOL.png" width="100" height="100">
 </div>
 # Data
 <div>
-<img src="https://i.imgur.com/vcYPNXy.png" width="50" height="50">
+<img src="https://i.imgur.com/vcYPNXy.png" width="100" height="100">
 </div>
 
 
 ## Build Tools and Environment
+
 🌟 Outsystems Service Studio 11
 
 ## Tech Stack
@@ -148,6 +151,20 @@ Flowcharts: https://drive.google.com/drive/folders/1SGcwIHqKkSzoKd_qgW0bdccCGf3U
 
 🛸 Online video consultation
 🛸 Payment integration
+
+## Hosting and Deployment
+
+👀 Hosted on outsystems cloud
+
+💡 https://personal-mcbd2ah0.outsystemscloud.com/CloneOfPatientPortal/Login 
+
+🤹 Sample doctor details
+    email: anndevon@gmail.com
+    password: 1q2w3e4r
+
+## Video Demo
+
+
 
 ## Setup and Installation
 
