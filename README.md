@@ -163,12 +163,7 @@ Flowcharts: https://drive.google.com/drive/folders/1H4g1ldiMRSLzIKRyiszoFrBh7eJb
 
 ## Video Demo
 
-
-
-
-https://user-images.githubusercontent.com/61073116/189226678-a53dd69b-370b-4f72-b08a-af83488fd78e.mp4
-
-
+https://user-images.githubusercontent.com/61073116/189241360-b1506467-9255-4478-b994-bbd5e0ad17a7.mp4
 
 ## Setup and Installation
 
