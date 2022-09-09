@@ -1,4 +1,4 @@
-# Develop_Hers
+# matrix
 Code repository for Veersa hackathon
 
 <br />
